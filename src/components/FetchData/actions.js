@@ -10,7 +10,7 @@ function editMovies(movies){
 function getMovies(){
   return {
     type: MyFetchDataActionsConstants.GET_MOVIES_ACTION,
-    uri: 'http://swapi.dev/api/films'
+    uri: 'https://swapi.dev/api/films'
   }
 }
 
