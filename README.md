@@ -1,4 +1,11 @@
-
+Installations:
+npm install antd --save
+npm install immutable --save
+npm install react-redux --save
+npm install redux --save
+npm install redux-saga --save
+Run:
+npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
